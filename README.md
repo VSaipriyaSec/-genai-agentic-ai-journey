@@ -23,7 +23,7 @@ This repository contains my self-paced learning journey in:
 
 | Week | Topics | Status |
 |---|---|---|
-| Week 1 | AI, ML, Deep Learning, GenAI, LLM, Prompt Engineering Basics | Completed |
+| Week 1 | AI, ML, Deep Learning, GenAI, LLM, Prompt Engineering Basics | day 1 Completed |
 | Week 2 | Advanced Prompting, AWS Bedrock, Gemini API | Not Started |
 | Week 3 | Azure AI Foundry, Text Generation | Not Started |
 | Week 4 | Gemini API, Structured Output, Function Calling | Not Started |
